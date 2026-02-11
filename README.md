@@ -1,6 +1,8 @@
 HR Analytics Dashboard 
 
 I’m excited to share my latest HR Analytics project where I designed and documented a complete HR Dashboard with Key Performance Indicators (KPIs) to derive meaningful workforce insights.
+<img width="1888" height="666" alt="image" src="https://github.com/user-attachments/assets/dc53952c-71cd-4de2-9aa4-6d4f42c6c7ed" />
+
 
 🔍 Project Overview
 
